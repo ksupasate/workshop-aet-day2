@@ -1,0 +1,10 @@
+stages:
+  train:
+    cmd: python train_and_save.py
+    deps:
+      - train_and_save.py
+      - data/iris.csv
+    outs:
+      - iris_pipeline.pkl
+    metrics:
+      - metrics.json
