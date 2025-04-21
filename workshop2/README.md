@@ -27,6 +27,12 @@ This repository contains an automated machine learning pipeline for real-world d
 ```
 
 ## Getting Started
+### Power Plant Dataset
+To fetch the Combined Cycle Power Plant dataset from UCI:
+```bash
+python src/download_data.py
+```
+
 
 1. **Clone** the repository:
    ```bash
