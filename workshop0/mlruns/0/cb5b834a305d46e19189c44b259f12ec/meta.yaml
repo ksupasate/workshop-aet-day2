@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0/mlruns/0/cb5b834a305d46e19189c44b259f12ec/artifacts
+end_time: 1745253677508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb5b834a305d46e19189c44b259f12ec
+run_name: unique-fawn-357
+run_uuid: cb5b834a305d46e19189c44b259f12ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745253673993
+status: 3
+tags: []
+user_id: ksupasate
