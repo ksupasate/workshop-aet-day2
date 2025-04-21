@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 import json
-import mlflow
+import run_mlflow_tracking
 import mlflow.sklearn
 from sklearn.datasets import load_iris
 from sklearn.linear_model import LogisticRegression
@@ -42,8 +42,8 @@ with open("metrics.json", "w") as f:
     json.dump(metrics, f)
 
 # Log with MLflow
-mlflow.set_experiment("Iris-Pipeline")
-with mlflow.start_run():
-    mlflow.log_param("model", "LogisticRegression")
-    mlflow.log_metric("accuracy", accuracy)
-    mlflow.sklearn.log_model(pipeline, "model")
+run_mlflow_tracking.set_experiment("Iris-Pipeline")
+with run_mlflow_tracking.start_run():
+    run_mlflow_tracking.log_param("model", "LogisticRegression")
+    run_mlflow_tracking.log_metric("accuracy", accuracy)
+    run_mlflow_tracking.sklearn.log_model(pipeline, "model")
