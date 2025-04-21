@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/6c95bae1b5444ea2a943f9f1f2136c28/artifacts
+end_time: 1745254518921
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: 6c95bae1b5444ea2a943f9f1f2136c28
+run_name: fun-grouse-454
+run_uuid: 6c95bae1b5444ea2a943f9f1f2136c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254518839
+status: 3
+tags: []
+user_id: ksupasate

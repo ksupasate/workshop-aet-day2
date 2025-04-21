@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/95c98c72355f4229adedefb4fbbf0f56/artifacts
+end_time: 1745254519103
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: 95c98c72355f4229adedefb4fbbf0f56
+run_name: traveling-fox-645
+run_uuid: 95c98c72355f4229adedefb4fbbf0f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254519050
+status: 3
+tags: []
+user_id: ksupasate

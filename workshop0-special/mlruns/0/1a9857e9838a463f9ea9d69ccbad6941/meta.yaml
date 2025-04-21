@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/0/1a9857e9838a463f9ea9d69ccbad6941/artifacts
+end_time: 1745254483681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a9857e9838a463f9ea9d69ccbad6941
+run_name: invincible-hound-561
+run_uuid: 1a9857e9838a463f9ea9d69ccbad6941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254481083
+status: 3
+tags: []
+user_id: ksupasate

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/3226692ca243419092be5a976a4cd53a/artifacts
+end_time: 1745254518749
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: 3226692ca243419092be5a976a4cd53a
+run_name: glamorous-koi-301
+run_uuid: 3226692ca243419092be5a976a4cd53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254518680
+status: 3
+tags: []
+user_id: ksupasate

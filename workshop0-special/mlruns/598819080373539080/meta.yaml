@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080
+creation_time: 1745254518386
+experiment_id: '598819080373539080'
+last_update_time: 1745254518386
+lifecycle_stage: active
+name: Optuna_MLflow_RF

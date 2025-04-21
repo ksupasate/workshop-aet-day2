@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/55c7f0c196d544c7a36d02e52a45c631/artifacts
+end_time: 1745254519177
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: 55c7f0c196d544c7a36d02e52a45c631
+run_name: mercurial-horse-85
+run_uuid: 55c7f0c196d544c7a36d02e52a45c631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254519105
+status: 3
+tags: []
+user_id: ksupasate

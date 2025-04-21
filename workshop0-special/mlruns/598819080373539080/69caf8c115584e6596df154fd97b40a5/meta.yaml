@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/69caf8c115584e6596df154fd97b40a5/artifacts
+end_time: 1745254518837
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: 69caf8c115584e6596df154fd97b40a5
+run_name: sincere-wren-427
+run_uuid: 69caf8c115584e6596df154fd97b40a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254518796
+status: 3
+tags: []
+user_id: ksupasate

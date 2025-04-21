@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/b45e2a3878a14ca394eed866b42807f9/artifacts
+end_time: 1745254518987
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: b45e2a3878a14ca394eed866b42807f9
+run_name: clumsy-cow-734
+run_uuid: b45e2a3878a14ca394eed866b42807f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254518923
+status: 3
+tags: []
+user_id: ksupasate

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ksupasate/Desktop/SuperAI/workshop-aet-day2/workshop0-special/mlruns/598819080373539080/c491384874ce4858b301bab397954498/artifacts
+end_time: 1745254518678
+entry_point_name: ''
+experiment_id: '598819080373539080'
+lifecycle_stage: active
+run_id: c491384874ce4858b301bab397954498
+run_name: dashing-stoat-630
+run_uuid: c491384874ce4858b301bab397954498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254518627
+status: 3
+tags: []
+user_id: ksupasate
