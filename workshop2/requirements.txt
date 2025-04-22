@@ -1,7 +1,9 @@
-requests
-pandas
-scikit-learn
-mlflow
 fastapi
-uvicorn
+joblib
+mlflow
+openpyxl
+pandas
 pytest
+requests
+scikit-learn
+uvicorn
